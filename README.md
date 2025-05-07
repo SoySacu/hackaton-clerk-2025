@@ -40,12 +40,30 @@ Una hackatón es una actividad de desarrollo de software donde los participantes
 > [!IMPORTANT]  
 > El pago de la hackatón se hace por PayPal o similares.
 
-![Premios Clerk](https://github.com/midudev/hackaton-clerk-2025/assets/prizes.png)
-
 # 📜 Reglas
 
 - La aplicación puede ser anterior, pero no puede haber tenido usuarios reales previamente ni ser un producto ya en funcionamiento.  
+
 - Es necesario que la aplicación use de forma notoria algún producto de Clerk.
+
+- **El proyecto debe estar publicado**: El repositorio del proyecto debe ser público y contar con un enlace accesible a la demo/despliegue del mismo (puede ser Vercel, Netlify, Fly.io, etc).
+
+- **El proyecto debe incluir documentación**: Al menos un `README.md` con:
+  - Descripción del proyecto
+  - Enlace a la demo
+  - Capturas de pantalla o GIFs si es posible
+  - Explicación de cómo se ha utilizado Clerk
+
+- **La presentación del proyecto se hace a través de una issue**: Cada proyecto debe registrarse creando una [nueva issue en el repositorio](https://github.com/midudev/hackaton-clerk-2025/issues/new) siguiendo la plantilla.  
+  - Si el proyecto es en equipo, **solo una persona debe crear la issue**.
+
+- **El premio se otorgará al usuario que creó la issue**, quien será responsable de distribuirlo entre el resto del equipo si aplica.
+
+- **No se permite contenido ofensivo, discriminatorio o inapropiado** en los proyectos presentados.
+
+- **Se valorará la experiencia del usuario, creatividad, utilidad del proyecto y la implementación técnica** en ese orden.
+
+- **Los proyectos deben estar funcionales al momento de la revisión**. Proyectos que no funcionen no podrán ser considerados para los premios principales.
 
 # 🎲 Sorteo entre los que participan
 
@@ -72,6 +90,12 @@ Una hackatón es una actividad de desarrollo de software donde los participantes
   <summary>¿Tengo que usar React?</summary>
 
   No, puedes usar el framework que prefieras. Siempre y cuando integres Clerk en alguna parte de tu proyecto.
+</details>
+
+<details>
+  <summary>¿Cuándo puedo crear la issue?</summary>
+
+  Puedes añadir tu participación cuando quieras, pero asegúrate que el 20 de marzo a las 23:59:59H (CET) tu aplicación esté operativa. Así no dejas a última hora añadir tu participación.
 </details>
 
 [issues-url]: https://github.com/midudev/hackaton-clerk-2025/issues/new  
