@@ -72,10 +72,10 @@ Una hackatón es una actividad de desarrollo de software donde los participantes
 # 📅 Fechas
 
 - 📅 **Fecha límite de entrega:**  
-  20 de marzo de 2025 a las 23:59:59 H (CET)
+  20 de mayo de 2025 a las 23:59:59 H (CET)
 
 - 🗳️ **Votaciones finales en directo:**  
-  21 de marzo de 2025 a las 18:00 H (CET)
+  21 de mayo de 2025 a las 18:00 H (CET)
 
 # 💬 Preguntas frecuentes
 
@@ -95,7 +95,7 @@ Una hackatón es una actividad de desarrollo de software donde los participantes
 <details>
   <summary>¿Cuándo puedo crear la issue?</summary>
 
-  Puedes añadir tu participación cuando quieras, pero asegúrate que el 20 de marzo a las 23:59:59H (CET) tu aplicación esté operativa. Así no dejas a última hora añadir tu participación.
+  Puedes añadir tu participación cuando quieras, pero asegúrate que el 20 de mayo a las 23:59:59H (CET) tu aplicación esté operativa. Así no dejas a última hora añadir tu participación.
 </details>
 
 [issues-url]: https://github.com/midudev/hackaton-clerk-2025/issues/new  
