@@ -1,6 +1,6 @@
 [![Issues][issues-badge]][issues-url]
 
-![Clerk Hackathon](https://github.com/midudev/hackaton-clerk-2025/assets/hero.gif?raw=true)
+![Clerk Hackathon](https://github.com/user-attachments/assets/5a88641c-f56a-4b8d-8744-84504ce6059d)
 
 <details>
   <summary>📖 Tabla de contenido</summary>
@@ -31,11 +31,11 @@ Una hackatón es una actividad de desarrollo de software donde los participantes
 
 ## 🎁 Premios de la Hackatón
 
-- 🥇 PayPal: 500 $ + 200 $ en tarjetas Amazon + 3 meses de Clerk Pro gratis + Caja de merchandising de Clerk  
-- 🥈 PayPal: 250 $ + 150 $ en tarjetas Amazon + 3 meses de Clerk Pro gratis + Caja de merchandising de Clerk  
-- 🥉 PayPal: 100 $ + 100 $ en tarjetas Amazon + 3 meses de Clerk Pro gratis + Caja de merchandising de Clerk  
-- 🏅 3 meses de Clerk Pro gratis + Caja de merchandising de Clerk (4º puesto)  
-- 🏅 3 meses de Clerk Pro gratis + Caja de merchandising de Clerk (5º puesto)  
+- 🥇 500$ + 200$ en Amazon + 3 meses de Clerk Pro + Caja de merch de Clerk  
+- 🥈 250$ + 150 $ en Amazon + 3 meses de Clerk Pro + Caja de merch de Clerk  
+- 🥉 100$ + 100 $ en Amazon + 3 meses de Clerk Pro + Caja de merch de Clerk  
+- 🏅 3 meses de Clerk Pro + Caja de merch de Clerk
+- 🏅 3 meses de Clerk Pro + Caja de merch de Clerk
 
 > [!IMPORTANT]  
 > El pago de la hackatón se hace por PayPal o similares.
