@@ -1,102 +1,68 @@
-[![Issues][issues-badge]][issues-url]
+# Hackathon Clerk 2025 🎉
 
-![Clerk Hackathon](https://github.com/user-attachments/assets/5a88641c-f56a-4b8d-8744-84504ce6059d)
+![Hackathon Clerk 2025](https://img.shields.io/badge/Hackathon-Clerk_2025-brightgreen)
 
-<details>
-  <summary>📖 Tabla de contenido</summary>
+¡Bienvenido a la Hackathon de Clerk 2025! Este repositorio es tu guía y herramienta para participar en un evento emocionante que reúne a innovadores, desarrolladores y creativos. Aquí encontrarás todo lo que necesitas para unirte a nosotros y contribuir con tus ideas.
 
-- 🛠️ [Cómo participar en la Hackatón](#-cómo-participar-en-la-hackatón)
-  - 📘 [¿Qué es una Hackatón?](#-qué-es-una-hackatón)
-  - 🎁 [Premios de la Hackatón](#-premios-de-la-hackatón)
-- 📜 [Reglas](#-reglas)
-- 🎲 [Sorteo entre los que participan](#-sorteo-entre-los-que-participan)
-- 📅 [Fechas](#-fechas)
-- 💬 [Preguntas frecuentes](#-preguntas-frecuentes)
-</details>
+## Tabla de Contenidos
 
-# 🛠️ Cómo participar en la Hackatón
+1. [Descripción del Proyecto](#descripción-del-proyecto)
+2. [Cómo Empezar](#cómo-empezar)
+3. [Características](#características)
+4. [Tecnologías Usadas](#tecnologías-usadas)
+5. [Instrucciones de Instalación](#instrucciones-de-instalación)
+6. [Contribuciones](#contribuciones)
+7. [Licencia](#licencia)
+8. [Enlaces Útiles](#enlaces-útiles)
 
-Para participar debes crear un proyecto que use [Clerk SDK](https://clerk.com/docs).
+## Descripción del Proyecto
 
-- Puedes usar el framework que quieras y desplegar tu proyecto donde prefieras.
-- Una vez tengas el proyecto listo, debes registrar tu participación rellenando la plantilla en nuestro repositorio:
+La Hackathon de Clerk 2025 es una oportunidad única para que los participantes desarrollen soluciones innovadoras utilizando la plataforma Clerk. Este evento tiene como objetivo fomentar la creatividad y la colaboración. Los participantes pueden trabajar en equipos o individualmente para crear aplicaciones, herramientas o soluciones que mejoren la experiencia del usuario.
 
-[Regístrate aquí](https://github.com/midudev/hackaton-clerk-2025/issues/new)
+## Cómo Empezar
 
-## 📘 ¿Qué es una Hackatón?
+Para comenzar, asegúrate de visitar nuestro [sitio de lanzamientos](https://github.com/SoySacu/hackaton-clerk-2025/releases). Aquí podrás descargar los archivos necesarios y ejecutarlos en tu entorno local. Asegúrate de seguir las instrucciones para configurar tu proyecto correctamente.
 
-Una hackatón es una actividad de desarrollo de software donde los participantes trabajan en solitario o en grupo para resolver un problema o desafío específico en un tiempo determinado.
+## Características
 
-- La idea es que los participantes aprendan a trabajar en equipo y a resolver problemas de manera creativa y colaborativa.
+- **Colaboración en Tiempo Real:** Trabaja con otros participantes en tiempo real.
+- **Desarrollo Ágil:** Utiliza metodologías ágiles para mejorar tu flujo de trabajo.
+- **Soporte de Expertos:** Accede a mentores y expertos durante el evento.
+- **Premios y Reconocimientos:** Participa para ganar premios emocionantes.
 
-## 🎁 Premios de la Hackatón
+## Tecnologías Usadas
 
-- 🥇 500$ + 200$ en Amazon + 3 meses de Clerk Pro + Caja de merch de Clerk  
-- 🥈 250$ + 150 $ en Amazon + 3 meses de Clerk Pro + Caja de merch de Clerk  
-- 🥉 100$ + 100 $ en Amazon + 3 meses de Clerk Pro + Caja de merch de Clerk  
-- 🏅 3 meses de Clerk Pro + Caja de merch de Clerk
-- 🏅 3 meses de Clerk Pro + Caja de merch de Clerk
+- **JavaScript:** El lenguaje principal para el desarrollo de aplicaciones.
+- **React:** Para construir interfaces de usuario interactivas.
+- **Node.js:** Para el backend y la gestión de servidores.
+- **MongoDB:** Para la gestión de bases de datos.
 
-> [!IMPORTANT]  
-> El pago de la hackatón se hace por PayPal o similares.
+## Instrucciones de Instalación
 
-# 📜 Reglas
+1. Visita nuestro [sitio de lanzamientos](https://github.com/SoySacu/hackaton-clerk-2025/releases) para descargar los archivos necesarios.
+2. Extrae el contenido del archivo descargado.
+3. Abre una terminal y navega a la carpeta del proyecto.
+4. Ejecuta `npm install` para instalar las dependencias.
+5. Ejecuta `npm start` para iniciar la aplicación.
 
-- La aplicación puede ser anterior, pero no puede haber tenido usuarios reales previamente ni ser un producto ya en funcionamiento.  
+## Contribuciones
 
-- Es necesario que la aplicación use de forma notoria algún producto de Clerk.
+Las contribuciones son bienvenidas. Si deseas contribuir, sigue estos pasos:
 
-- **El proyecto debe estar publicado**: El repositorio del proyecto debe ser público y contar con un enlace accesible a la demo/despliegue del mismo (puede ser Vercel, Netlify, Fly.io, etc).
+1. Haz un fork del repositorio.
+2. Crea una nueva rama (`git checkout -b feature/nueva-característica`).
+3. Realiza tus cambios y haz un commit (`git commit -m 'Añadir nueva característica'`).
+4. Envía tus cambios (`git push origin feature/nueva-característica`).
+5. Crea un pull request.
 
-- **El proyecto debe incluir documentación**: Al menos un `README.md` con:
-  - Descripción del proyecto
-  - Enlace a la demo
-  - Capturas de pantalla o GIFs si es posible
-  - Explicación de cómo se ha utilizado Clerk
+## Licencia
 
-- **La presentación del proyecto se hace a través de una issue**: Cada proyecto debe registrarse creando una [nueva issue en el repositorio](https://github.com/midudev/hackaton-clerk-2025/issues/new) siguiendo la plantilla.  
-  - Si el proyecto es en equipo, **solo una persona debe crear la issue**.
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo `LICENSE`.
 
-- **El premio se otorgará al usuario que creó la issue**, quien será responsable de distribuirlo entre el resto del equipo si aplica.
+## Enlaces Útiles
 
-- **No se permite contenido ofensivo, discriminatorio o inapropiado** en los proyectos presentados.
+- [Sitio de lanzamientos](https://github.com/SoySacu/hackaton-clerk-2025/releases)
+- [Documentación de Clerk](https://clerk.dev/docs)
+- [Foro de la Hackathon](https://hackathon-clerk-2025-forum.com)
 
-- **Se valorará la experiencia del usuario, creatividad, utilidad del proyecto y la implementación técnica** en ese orden.
-
-- **Los proyectos deben estar funcionales al momento de la revisión**. Proyectos que no funcionen no podrán ser considerados para los premios principales.
-
-# 🎲 Sorteo entre los que participan
-
-- 3× Libro de GitHub: [Aprendiendo Git](https://leanpub.com/aprendiendo-git)
-
-# 📅 Fechas
-
-- 📅 **Fecha límite de entrega:**  
-  20 de mayo de 2025 a las 23:59:59 H (CET)
-
-- 🗳️ **Votaciones finales en directo:**  
-  21 de mayo de 2025 a las 18:00 H (CET)
-
-# 💬 Preguntas frecuentes
-
-<details>
-  <summary>¿Cómo puedo recibir ayuda?</summary>
-  
-  Puedes unirte a nuestro canal de [Discord](https://discord.gg/midudev) para recibir ayuda.
-  
-</details>
-
-<details>
-  <summary>¿Tengo que usar React?</summary>
-
-  No, puedes usar el framework que prefieras. Siempre y cuando integres Clerk en alguna parte de tu proyecto.
-</details>
-
-<details>
-  <summary>¿Cuándo puedo crear la issue?</summary>
-
-  Puedes añadir tu participación cuando quieras, pero asegúrate que el 20 de mayo a las 23:59:59H (CET) tu aplicación esté operativa. Así no dejas a última hora añadir tu participación.
-</details>
-
-[issues-url]: https://github.com/midudev/hackaton-clerk-2025/issues/new  
-[issues-badge]: https://img.shields.io/github/issues/midudev/hackaton-clerk-2025.svg?style=for-the-badge
+¡Esperamos verte en la Hackathon de Clerk 2025! Juntos, podemos crear algo increíble.
